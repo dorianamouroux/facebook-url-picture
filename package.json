@@ -14,5 +14,13 @@
     "image"
   ],
   "author": "dorianamouroux <dor.amouroux@gmail.com> (http://www.dorianamouroux.fr)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorianamouroux/facebook-url-picture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dorianamouroux/facebook-url-picture/issues"
+  },
+  "homepage": "https://github.com/dorianamouroux/facebook-url-picture#readme"
 }
