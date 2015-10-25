@@ -1,0 +1,18 @@
+{
+  "name": "facebook-url-picture",
+  "version": "1.0.0",
+  "description": "A simple function to get the URL of the facebook profile photo of someone by giving the profile id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "url",
+    "picture",
+    "profile",
+    "image"
+  ],
+  "author": "dorianamouroux <dor.amouroux@gmail.com> (http://www.dorianamouroux.fr)",
+  "license": "ISC"
+}
